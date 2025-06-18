@@ -1,0 +1,127 @@
+{
+  "hash": "22726f7e",
+  "configHash": "c418d43a",
+  "lockfileHash": "e1f9546c",
+  "browserHash": "562ab2fe",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "f3276c41",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a2609fd6",
+      "needsInterop": true
+    },
+    "@gsap/react": {
+      "src": "../../node_modules/@gsap/react/src/index.js",
+      "file": "@gsap_react.js",
+      "fileHash": "c61c8b90",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "68ecfee0",
+      "needsInterop": false
+    },
+    "gsap/ScrollTrigger": {
+      "src": "../../node_modules/gsap/ScrollTrigger.js",
+      "file": "gsap_ScrollTrigger.js",
+      "fileHash": "c2acfc49",
+      "needsInterop": false
+    },
+    "@emailjs/browser": {
+      "src": "../../node_modules/@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "d1431bce",
+      "needsInterop": false
+    },
+    "gsap/all": {
+      "src": "../../node_modules/gsap/all.js",
+      "file": "gsap_all.js",
+      "fileHash": "986424a4",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "8e3e8f84",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "384e9f5b",
+      "needsInterop": false
+    },
+    "react-responsive": {
+      "src": "../../node_modules/react-responsive/dist/esm/index.js",
+      "file": "react-responsive.js",
+      "fileHash": "59616b22",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "47aa8b68",
+      "needsInterop": false
+    },
+    "@react-three/postprocessing": {
+      "src": "../../node_modules/@react-three/postprocessing/dist/index.js",
+      "file": "@react-three_postprocessing.js",
+      "fileHash": "b424b3ee",
+      "needsInterop": false
+    },
+    "postprocessing": {
+      "src": "../../node_modules/postprocessing/build/index.js",
+      "file": "postprocessing.js",
+      "fileHash": "dc44d1a3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-T3WEHWIY": {
+      "file": "chunk-T3WEHWIY.js"
+    },
+    "hls-R7NYNUNI": {
+      "file": "hls-R7NYNUNI.js"
+    },
+    "vision_bundle-3QUMERFG": {
+      "file": "vision_bundle-3QUMERFG.js"
+    },
+    "chunk-JYEH4VRH": {
+      "file": "chunk-JYEH4VRH.js"
+    },
+    "chunk-54D56QPT": {
+      "file": "chunk-54D56QPT.js"
+    },
+    "chunk-6RPRAJGR": {
+      "file": "chunk-6RPRAJGR.js"
+    },
+    "chunk-G73MH3H3": {
+      "file": "chunk-G73MH3H3.js"
+    },
+    "chunk-GDFMGB5Y": {
+      "file": "chunk-GDFMGB5Y.js"
+    },
+    "chunk-T2F7LD4Q": {
+      "file": "chunk-T2F7LD4Q.js"
+    },
+    "chunk-CU73NCLI": {
+      "file": "chunk-CU73NCLI.js"
+    },
+    "chunk-7RFQQ6AE": {
+      "file": "chunk-7RFQQ6AE.js"
+    },
+    "chunk-2GK3IQSO": {
+      "file": "chunk-2GK3IQSO.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
