@@ -53,10 +53,10 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-               meu projeto 
+                AluraBooks – Online Book Catalog
               </h2>
               <p className="text-white-50 md:text-xl">
-               descricao dele (de preferencia um projeto ja grande)
+                A catalog website designed to showcase the books available in the Alura store. Focus on clear product display, with a responsive layout and simple navigation.
               </p>
             </div>
           </div>
@@ -69,14 +69,14 @@ const AppShowcase = () => {
                   alt="Library Management Platform"
                 />
               </div>
-              <h2>me projeto</h2>
+              <h2>Pouso obras sociais – Social Management System</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2>meu outro projeto</h2>
+              <h2>School Management System</h2>
             </div>
           </div>
         </div>
