@@ -69,7 +69,7 @@ const AppShowcase = () => {
                   alt="Library Management Platform"
                 />
               </div>
-              <h2>Pouso obras sociais – Social Management System</h2>
+              <h2>Empório Ribeiro – Point of Sale system</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
